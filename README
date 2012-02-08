@@ -1,0 +1,4 @@
+Samplee application using spring-social-nk.
+
+To run simply type
+mvn tomcat:run
